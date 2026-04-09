@@ -5,7 +5,7 @@
 ### 🚀 Student & Aspiring Full-Stack Developer | Bengaluru, India
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavik05956@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@bhavik5956-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhavik5956)
+[![Instagram](https://img.shields.io/badge/Instagram-@not_.this_.time-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_.this_.time)
 [![GitHub](https://img.shields.io/badge/GitHub-BHAVIK5956-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHAVIK5956)
 </div>
 
@@ -126,7 +126,7 @@ I'm always open to collaborating on projects, learning from others, and connecti
 | Platform | Handle |
 |----------|--------|
 | **GitHub** | [@BHAVIK5956](https://github.com/BHAVIK5956) |
-| **Instagram** | [@bhavik5956](https://instagram.com/bhavik5956) |
+| **Instagram** | [@not_.this_.time](https://instagram.com/not_.this_.time) |
 | **Email** | [bhavik05956@gmail.com](mailto:bhavik05956@gmail.com) |
 | **Location** | Bengaluru, Karnataka, India |
 </div>
