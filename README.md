@@ -1,147 +1,147 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhavik
+# Hi, I'm Bhavik
 
-### 🚀 Student & Aspiring Full-Stack Developer | Bengaluru, India
+### Student Developer • Bengaluru, India
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavik05956@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@not_.this_.time-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_.this_.time)
-[![GitHub](https://img.shields.io/badge/GitHub-BHAVIK5956-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHAVIK5956)
+<p>
+  <a href="mailto:bhavik05956@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhavik05956%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/not_.this_.time" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@not_.this_.time-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/BHAVIK5956" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-BHAVIK5956-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p>
+  Building skills in web development, backend fundamentals, AI tools, and self-hosted systems.
+</p>
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a passionate **Class 12 student** based in **Bengaluru, India**, deeply invested in building a career in software development. My journey in tech started with curiosity and has evolved into a serious pursuit of mastering modern development tools and practices.
+I’m a Class 12 student from Bengaluru with a growing focus on software development, practical problem solving, and building technical projects that improve my skills over time.
 
-I'm currently strengthening my foundation in **Physics, Chemistry, and Mathematics** while simultaneously building real-world coding skills through self-directed learning, online resources, and hands-on projects.
+My interests include full-stack development, APIs, AI workflows, self-hosting, and technical experimentation. I’m also working on strengthening my academic foundation alongside hands-on development.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
 ### Languages
-<div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  </a>
+</p>
 
-</div>
+### Tools & Platforms
 
-### Frameworks & Tools
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### Other Interests
-<div align="center">
-
-![AI/LLM](https://img.shields.io/badge/-AI_%26_LLM-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![Self_Hosting](https://img.shields.io/badge/-Self_Hosting-009688?style=for-the-badge&logo=linux&logoColor=white)
-![Minecraft](https://img.shields.io/badge/-Minecraft-5D5D5D?style=for-the-badge&logo=minecraft&logoColor=white)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-- **Web Development** — Full-stack development with modern JavaScript frameworks
-- **API Integration** — Building and consuming REST APIs
-- **AI & LLMs** — Exploring large language models, self-hosted AI tools, and prompt engineering
-- **Backend Development** — Node.js, server-side programming, and database management
-- **Linux & DevOps Basics** — Self-hosting, server management, and scripting
+<p>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
+## Focus Areas
+
+- **Web development** — building responsive websites and improving frontend and backend fundamentals.
+- **API integration** — learning how services connect, exchange data, and support real applications.
+- **AI tools** — exploring practical workflows around LLMs, automation, and developer productivity.
+- **Self-hosting** — experimenting with running services, tools, and projects independently.
+- **Minecraft technical projects** — interested in modding, server setup, and custom configurations.
+
+---
+
+## Currently Learning
+
+- Modern JavaScript development.
+- Backend concepts with Node.js.
+- Better project structure and clean code practices.
+- Linux, terminal workflows, and deployment basics.
+- Practical use of AI tools in development workflows.
+
+---
+
+## Education
 
 **Karnataka State Board — Class 12 (PCM)**  
-*2024 – 2026* | Bengaluru, India
+2024 – 2026 • Bengaluru, India
 
-- Preparing for **KCET** and competitive engineering entrance exams
-- Focused on **Physics, Chemistry, and Mathematics**
-- Balancing academic excellence with technical skill development
-
----
-
-## 🌱 My Learning Sources
-
-- 📖 **YouTube** — Tutorials, project walkthroughs, and tech deep-dives
-- 💻 **Hands-on Practice** — Building projects locally and deploying them
-- 🤖 **AI Tools** — Google AI Studio, Ollama, and various LLM platforms
-- 🌐 **Online Platforms** — Free hosting services, documentation, and community forums
+- Preparing for KCET and future engineering studies.
+- Studying Physics, Chemistry, and Mathematics.
+- Balancing academics with continuous technical skill development.
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
-> *"Every line of code I write is a step closer to becoming the developer I aspire to be."*
+Right now, I’m focused on improving my GitHub presence and turning my interests into real projects that reflect my current skill level more clearly.
 
-I'm actively working on improving my GitHub presence and building a portfolio of projects. Here's what I'm focused on:
-
-- 🏗️ **Web Projects** — Full-stack applications deployed on free hosting platforms
-- 🤖 **AI Integration** — Experimenting with LLM APIs and self-hosted AI models
-- 🎮 **Minecraft Modding** — Server setup, mod installation, and custom configurations
-- 📦 **Self-Hosting** — Running local servers and experimenting with DevOps concepts
+Some of the areas I’m actively exploring include web projects, backend practice, AI-based tooling, self-hosted setups, and technical gaming-related experiments.
 
 ---
 
-## 💡 Skills I'm Developing
+## Skills In Progress
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | HTML, CSS, JavaScript, Responsive Design |
-| **Backend** | Node.js, API Development, Server Configuration |
-| **Tools** | VS Code, Git, GitHub, Terminal/CLI |
-| **Soft Skills** | Problem Solving, Self-Learning, Project Planning |
-
----
-
-## 🔮 Future Goals
-
-- [ ] Land an internship or project opportunity in software development
-- [ ] Build and deploy 5+ complete projects on my GitHub
-- [ ] Master at least one modern frontend framework (React/Vue)
-- [ ] Contribute to open-source projects
-- [ ] Crack KCET and pursue engineering with a focus on Computer Science
+| Area | Working On |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, responsive design |
+| Backend | Node.js, APIs, server-side basics |
+| Tools | Git, GitHub, VS Code, terminal workflows |
+| Technical Interests | AI tooling, self-hosting, Minecraft systems |
+| Growth Skills | Problem solving, self-learning, consistency |
 
 ---
 
-## 📬 Let's Connect
+## Goals
 
-I'm always open to collaborating on projects, learning from others, and connecting with fellow developers!
-
-<div align="center">
-
-| Platform | Handle |
-|----------|--------|
-| **GitHub** | [@BHAVIK5956](https://github.com/BHAVIK5956) |
-| **Instagram** | [@not_.this_.time](https://instagram.com/not_.this_.time) |
-| **Email** | [bhavik05956@gmail.com](mailto:bhavik05956@gmail.com) |
-| **Location** | Bengaluru, Karnataka, India |
-</div>
+- Build a stronger public project portfolio.
+- Create and publish more complete GitHub projects.
+- Improve full-stack development skills step by step.
+- Learn modern frameworks after strengthening fundamentals.
+- Move toward engineering and software-focused career opportunities.
 
 ---
 
-<div align="center">
+## Connect
 
-### ⭐ If you like my profile, feel free to star it!
+<p>
+  <a href="https://github.com/BHAVIK5956" target="_blank">GitHub</a> •
+  <a href="https://instagram.com/not_.this_.time" target="_blank">Instagram</a> •
+  <a href="mailto:bhavik05956@gmail.com">Email</a>
+</p>
 
-
----
-
-**Thank you for visiting my profile!** 🙏
-
-*Last updated: April 2026*
-
-</div>
+<p>
+  Bengaluru, Karnataka, India
+</p>
