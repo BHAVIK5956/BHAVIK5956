@@ -4,10 +4,9 @@
 
 ### 🚀 Student & Aspiring Full-Stack Developer | Bengaluru, India
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@bhavikog-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhavikog)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavik05956@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@bhavik5956-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhavik5956)
 [![GitHub](https://img.shields.io/badge/GitHub-BHAVIK5956-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHAVIK5956)
-
 </div>
 
 ---
@@ -127,9 +126,9 @@ I'm always open to collaborating on projects, learning from others, and connecti
 | Platform | Handle |
 |----------|--------|
 | **GitHub** | [@BHAVIK5956](https://github.com/BHAVIK5956) |
-| **Instagram** | [@bhavikog](https://instagram.com/bhavikog) |
+| **Instagram** | [@bhavik5956](https://instagram.com/bhavik5956) |
+| **Email** | [bhavik05956@gmail.com](mailto:bhavik05956@gmail.com) |
 | **Location** | Bengaluru, Karnataka, India |
-
 </div>
 
 ---
@@ -138,7 +137,6 @@ I'm always open to collaborating on projects, learning from others, and connecti
 
 ### ⭐ If you like my profile, feel free to star it!
 
-![Profile Views](https://komarev.com/ghpvc/?username=BHAVIK5956&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
